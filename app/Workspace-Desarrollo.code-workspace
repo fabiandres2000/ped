@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PEDIGITAL-KID"
+		},
+		{
+			"path": "../../ServSoft"
+		},
+		{
+			"path": "../../ECCE_HOMO"
+		},
+		{
+			"path": "../../ECCE_HOMO-ADM"
+		},
+		{
+			"path": "../../PEDIGITAL-LITE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practicas",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

@@ -1,0 +1,26 @@
+
+
+.wrapper {
+    position: relative;
+    margin: 0rem auto;
+    max-width: 100%;
+    border-radius: 5px;
+    border: 1px solid #bce8f1;
+}
+
+.wrapper header {
+    padding: 0.5rem;
+    border-radius: 4px 4px 0 0;
+    border-bottom: 1px solid #bce8f1;
+    background-color: #d9edf7;
+    color: #31708f;
+    font-size: 1rem;
+}
+
+.wrapper main {
+    padding: 1.0rem;
+}
+
+.wrapper main p:last-child {
+    margin-bottom: 0;
+}

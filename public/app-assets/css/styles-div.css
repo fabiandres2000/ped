@@ -1,0 +1,13 @@
+#column-left {
+    border-radius: 8px 8px 8px 8px;
+    float: left;
+    
+    /* para mantener visible un elemento en todo momento aunque se haga scroll en la página */
+    position: fixed;
+    min-height: 225px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+    text-align: center;
+    width: 200px;
+}
